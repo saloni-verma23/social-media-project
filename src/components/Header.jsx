@@ -78,7 +78,7 @@ const Header = ({ selectedTab, setSelectedTab }) => {
                   aria-expanded="true"
                 >
                   <img
-                    src="public\vini.jpg"
+                    src="/vini.jpg"
                     alt="mdo"
                     width="35"
                     height="35"

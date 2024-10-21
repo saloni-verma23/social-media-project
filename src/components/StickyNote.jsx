@@ -16,7 +16,7 @@ const StickyNote = ({ setSelectedTab }) => {
       >
         Create a new post
       </button>
-      <img src="public\paws.png" className={styles.paw} alt="" />
+      <img src="/paws.png" className={styles.paw} alt="" />
     </div>
   );
 };
