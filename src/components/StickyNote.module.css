@@ -1,0 +1,41 @@
+.stickyNote{
+    background-color: #B388EB;
+    color: dark gray;
+    border: none;
+    margin: 1rem 3rem;
+    width: 65rem;
+    height: 30rem;
+    padding: 3rem;
+    border-radius: 0.5rem;
+    position: sticky; /* Change this to sticky */
+    top: 10px; /* The distance from the top when it becomes sticky */
+    z-index: 10; /* Ensure it stays on top of other elements if needed */
+}
+.head{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.body{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 200;
+    margin: 1.5rem 0rem;
+    text-align: justify;
+}
+.button{
+    background-color: #F7AEF8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+.paw{
+    width: 5rem;
+    height: 5rem;
+    position: absolute;
+    top: -50px;
+    left: -30px;
+}

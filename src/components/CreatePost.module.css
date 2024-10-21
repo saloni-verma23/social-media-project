@@ -1,0 +1,21 @@
+.labelText{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 200;
+    color: gray;
+}
+
+.controlText{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    color: rgba(170, 169, 169, 0.363);
+}
+.formBtn{
+    background-color: #8093F1;
+    color: white;
+    border: none;
+}
+.formBtn:hover{
+    background-color: #F7AEF8;
+}
